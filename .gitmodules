@@ -1,0 +1,3 @@
+[submodule "kernel-3.18"]
+	path = kernel-3.18
+	url = https://github.com/freedomtan/kernel-3.18-X20-96-board.git
