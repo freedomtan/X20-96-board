@@ -1,3 +1,9 @@
 [submodule "kernel-3.18"]
 	path = kernel-3.18
 	url = https://github.com/freedomtan/kernel-3.18-X20-96-board.git
+[submodule "patches-mainline-x20-96board"]
+	path = patches-mainline-x20-96board
+	url = https://github.com/freedomtan/patches-mainline-x20-96board.git
+[submodule "lk-x20-96-board"]
+	path = lk-x20-96-board
+	url = https://github.com/freedomtan/lk-x20-96-board.git
