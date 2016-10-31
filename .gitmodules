@@ -7,3 +7,6 @@
 [submodule "lk-x20-96-board"]
 	path = lk-x20-96-board
 	url = https://github.com/freedomtan/lk-x20-96-board.git
+[submodule "atf-1.0-x20"]
+	path = atf-1.0-x20
+	url = https://github.com/freedomtan/atf-1.0-x20.git
